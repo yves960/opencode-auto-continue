@@ -17,13 +17,21 @@ Auto-send "继续" when model fails (429, errors, etc.)
 
 ## 安装
 
-### 从 npm 安装
+### 从 npm 安装（发布后）
 
 在 `opencode.json` 中添加：
 
 ```json
 {
   "plugin": ["opencode-auto-continue"]
+}
+```
+
+### 从 GitHub 安装
+
+```json
+{
+  "plugin": ["github:yves960/opencode-auto-continue"]
 }
 ```
 
