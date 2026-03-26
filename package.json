@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zenobi-us/opencode-auto-continue"
+    "url": "https://github.com/yves960/opencode-auto-continue"
   },
   "publishConfig": {
     "access": "public",
