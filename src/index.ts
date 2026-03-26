@@ -23,6 +23,15 @@ const RETRYABLE_ERRORS = [
   /ENOTFOUND/,
   /network/i,
   /retry/i,
+  // Model response validation errors
+  /TypeValidation/i,
+  /Type validation failed/i,
+  /validation error/i,
+  /invalid response/i,
+  /parse error/i,
+  /JSON/i,
+  /unexpected token/i,
+  /failed to parse/i,
 ]
 
 // Cooldown to prevent spam (in milliseconds)
