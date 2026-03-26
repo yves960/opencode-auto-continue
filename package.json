@@ -1,6 +1,6 @@
 {
   "name": "opencode-auto-continue",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Auto-send '继续' when model fails (429, errors, etc.)",
   "author": {
     "name": "孙越",
